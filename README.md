@@ -17,7 +17,7 @@ Breakout is a 🎨 JavaScript game that helped me learn complex concepts in game
 
 ## 🔗 Clone the Repository
 ```sh
-git clone https://github.com/yourusername/Breakout.git
+git clone https://github.com/abudev-et/Breakout.git
 ``` 
 
 Stay tuned for updates! 🚀✨
